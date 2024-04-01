@@ -18,15 +18,15 @@ class Solution {
         return answer;
     }
     
-    private void hanoi(int n, int from, int to, int via){
+    private void hanoi(int n, int start, int mid, int end){
         int[] move = {from, to};
         
         if(n == 1) {
             seq.add(move);
         } else {
-            hanoi(n - 1, from, via, to);
+            hanoi(n - 1, start, end, mid);
             seq.add(move);
-            hanoi(n - 1, via, to, from);   
+            hanoi(n - 1, end, mid, start);   
         }
     }
 }
