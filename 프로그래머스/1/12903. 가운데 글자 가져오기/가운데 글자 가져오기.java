@@ -1,15 +1,5 @@
 class Solution {
-    public String solution(String s) {
-        String answer = "";
-        int length = s.length();
-        
-        if(length % 2 == 0) {
-            answer = s.substring(length/2-1, length/2+1);
-        } else {
-            answer = s.substring(length/2, length/2+1);
-        }
-            
-            
-        return s.length() % 2 == 0 ? s.substring(length/2-1, length/2+1) : s.substring(length/2, length/2+1);
+    public String solution(String s) {    
+        return s.length() % 2 == 0 ? s.substring(s.length() / 2 - 1, s.length() / 2 + 1) : s.substring(s.length() / 2, s.length() / 2 + 1);
     }
 }
