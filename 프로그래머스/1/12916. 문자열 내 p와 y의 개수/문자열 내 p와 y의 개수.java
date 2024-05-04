@@ -5,10 +5,10 @@ class Solution {
         int p = 0;
         int y = 0;
         
-        for(char c : s.toCharArray()){
-            if(c == 'P' || c == 'p'){
+        for(char c : s.toLowerCase().toCharArray()){
+            if(c == 'p'){
                 p++;
-            }else if(c == 'Y' || c == 'y'){
+            }else if(c == 'y'){
                 y++;
             }
         }
