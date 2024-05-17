@@ -1,10 +1,10 @@
 # [level 0] 두 수의 차 - 120803 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120803) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=ruby) 
 
 ### 성능 요약
 
-메모리: 77.2 MB, 시간: 0.02 ms
+메모리: 14.1 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 07일 03:34:05
+2024년 05월 17일 14:43:28
 
 ### 문제 설명
 
