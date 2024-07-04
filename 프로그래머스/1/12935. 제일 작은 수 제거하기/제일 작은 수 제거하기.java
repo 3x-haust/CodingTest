@@ -16,9 +16,7 @@ class Solution {
         
         int index = 0;  
         for(int i = 0; i < arr.length; i++) {
-            if(arr[i] == min) {
-                continue;
-            }
+            if(arr[i] == min) continue;
             
             answer[index++] = arr[i];
         }
