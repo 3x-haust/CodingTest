@@ -6,10 +6,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/3x-haust/CodingTest/tree/master/0001-two-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/3x-haust/CodingTest/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/3x-haust/CodingTest/tree/master/0001-two-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/3x-haust/CodingTest/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
