@@ -21,4 +21,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/3x-haust/CodingTest/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/3x-haust/CodingTest/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
