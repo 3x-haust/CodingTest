@@ -1,9 +1,8 @@
+import java.util.Arrays;
+import java.util.stream.*;
+
 class Solution {
     public int solution(int[] array, int n) {
-        int answer = 0;
-        for(int i = 0; i < array.length; i++){
-            if(array[i] == n) answer ++;
-        }
-        return answer;
+        return Arrays.stream(array).filter(i -> i == n).toArray().length;
     }
 }
